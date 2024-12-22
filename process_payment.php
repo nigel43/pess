@@ -40,7 +40,7 @@ $stkData = [
     'PartyA' => $phoneNumber,
     'PartyB' => $shortCode,
     'PhoneNumber' => $phoneNumber,
-    'CallBackURL' => 'https://nigel43.github.io/mpesaa/callback.php',
+    'CallBackURL' => 'https://nigel43.github.io/pess/callback.php',
     'AccountReference' => 'Shopping',
     'TransactionDesc' => 'Payment for 100GB'
 ];
